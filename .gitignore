@@ -10,3 +10,5 @@ tl-expected-config-version.cmake
 tl-expected-config.cmake
 
 Makefile
+
+cmakeUserPath.json
